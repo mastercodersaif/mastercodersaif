@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mastercodersaif
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning JavaScript
-- 📫 You can reach me at discord 
+- 📫 You can reach me at discord through the link on my page
 - 😄 Pronouns: He/Him/His
